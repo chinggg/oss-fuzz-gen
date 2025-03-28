@@ -1,0 +1,5 @@
+project: example
+language: C
+target_path: example.c
+functions:
+  - signature: int example(int a, int b)
